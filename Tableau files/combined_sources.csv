@@ -1,0 +1,380 @@
+company_name,date_of_attack,revenue,data_volume,country,industry,Data Type - Databases,Data type - Applications,Data Type - Emails,Data Type - Source Code,Data Type- Designs,Data Type - Financial Information,Data Type -Research Information,Data Type - Employee Information,Data Type - Customer Information,Data Type - Company Information,Data Type - Backup Systems Information,Data Type - Supply Systems Information,Data Type - Business Deals Information,Data Type - Manufacturing Information,Data Type -  Government Information,Data Type - Medical Information,Data Type - Personal Information,Data Type - Others,attacker
+"On Q Financial, LLC",23/4/2024,270,,United States,Finance,0,0,1,1,1,1,0,0,0,1,0,0,1,0,0,0,1,0,bianlian
+Instron & ITW Inc,21/2/2024,1000,2048,United States,Manufacturing,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,bianlian
+Thompson Davis & Co,13/8/2024,5,,United States,Finance,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,bianlian
+Romeo Pitaro Injury & Litigation Lawyers,10/5/2024,5,,Canada,Law,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,bianlian
+Bluebonnet Nutrition,17/5/2024,26,,United States,Manufacturing,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,0,bianlian
+Panacea Healthcare Services,29/5/2024,5,,United States,Finance,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,bianlian
+Bira 91,4/4/2024,343,1945.6,India,Food & Beverage,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,bianlian
+Elite Limousine Plus Inc,25/6/2024,15.6,1843.2,United States,Transportation & Logistics,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,bianlian
+LT Business Dynamics,6/5/2024,5,920,United States,Finance,0,0,1,0,0,1,0,0,1,1,0,0,1,0,1,0,1,0,bianlian
+"Pioneer Oil Company, Inc.",30/4/2024,20,,United States,Energy,0,0,1,1,1,1,0,0,0,1,0,0,1,0,1,0,1,0,bianlian
+Dobrowski Stafford & Pierce,7/3/2024,7,,United States,Law,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,1,1,bianlian
+Anniversary Holding,9/9/2024,5,2969.6,United States,Conglomerate,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,bianlian
+Majestic Metals,10/9/2024,24.1,735,United States,Manufacturing,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,bianlian
+Roncelli Plastics,24/3/2024,20,,United States,Manufacturing,0,1,0,0,1,0,0,0,0,1,1,0,1,0,0,0,1,0,bianlian
+KC Pharmaceuticals,19/1/2024,22.5,2560,United States,Healthcare,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,bianlian
+"Atwood & Cherny, P.C.",26/8/2024,5,,United States,Law,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,bianlian
+Benson Kearley IFG - Insurance Brokers & Financial Advisors,12/9/2024,20,,Canada,Finance,0,0,0,0,1,0,0,1,0,1,1,0,1,1,0,0,1,0,bianlian
+GCA Global Cargo Alliance,10/9/2024,5,1024,United States,Transportation & Logistics,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,bianlian
+Consolidated Benefits Resources,1/4/2024,5.1,1228.8,United States,Finance,1,0,1,0,0,1,0,1,0,1,0,0,0,0,1,1,0,0,bianlian
+HDI,10/9/2024,100,9728,Canada,Manufacturing,0,0,1,0,0,0,1,1,0,1,0,1,1,1,1,0,0,1,bianlian
+Nikolaus & Hohenadel,20/6/2024,15,388,United States,Law,0,0,1,0,0,1,0,1,0,1,0,0,1,0,1,0,0,1,bianlian
+"Florence Cement Company, Inc.",26/7/2024,16,,United States,Contracting,0,0,1,1,1,1,0,0,0,1,0,0,1,0,1,0,1,0,bianlian
+"GMJ & Co, Chartered Accountants",7/6/2024,5,110,India,Finance,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,bianlian
+Critchfield & Johnston,20/6/2024,9.8,4812.8,United States,Law,0,0,1,0,0,1,0,1,0,1,0,0,1,0,1,0,0,1,bianlian
+NSEIT Limited (a subsidiary of the National Stock Exchange of India),21/1/2024,50,3072,India,IT Services,1,1,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,bianlian
+NOVA Business Law Group,20/2/2024,5,880,United States,Law,0,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,1,0,bianlian
+Battle Lumber Co.,9/9/2024,106,1126.4,United States,Manufacturing,0,0,1,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0,bianlian
+Longview Oral & Maxillofacial Surgery,2/7/2024,5,2560,United States,Healthcare,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,bianlian
+Mountjoy,13/6/2024,71.8,,United Kingdom,Construction,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,bianlian
+Island Transportation Corp.,13/8/2024,98,,United States,Transportation & Logistics,1,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,1,0,bianlian
+Center for Digestive Health,13/6/2024,6,,United States,Healthcare,0,0,1,0,0,1,0,0,0,1,0,0,1,0,1,1,1,0,bianlian
+Chambers Construction,10/4/2024,20.9,4300.8,United States,Construction,0,0,1,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,bianlian
+Martinaire Aviation,19/1/2024,20,365,United States,Airline,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,1,0,bianlian
+Greenbox Loans Inc.,2/2/2024,21.6,1024,United States,Finance,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,bianlian
+P&B Capital Group,5/4/2024,N/A,,United States,Finance,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bianlian
+Mohawk Valley Cardiology PC,16/8/2024,5,,United States,Healthcare,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0,1,1,0,bianlian
+Texas Centers for Infectious Disease Associates,30/8/2024,8,,United States,Healthcare,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0,1,1,0,bianlian
+Somerset Logistics,8/1/2024,40,624,United States,Transportation & Logistics,1,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,bianlian
+Northeast Spine and Sports Medicine's,7/2/2024,7,400,United States,Healthcare,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,bianlian
+PBC Companies,16/8/2024,250,,United States,Design,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,bianlian
+"Law Offices of Michael J Gurfinkel, Inc",11/9/2024,5,,United States,Law,0,0,1,0,0,1,0,0,0,1,0,0,1,0,1,0,1,0,bianlian
+"Wayne Wright, LLP.",28/8/2024,5,,United States,Law,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,1,0,bianlian
+Stein Fibers,10/9/2024,100,707,United States,Manufacturing,0,0,1,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0,bianlian
+B&B Electric Inc,18/4/2024,40,750,United States,Construction,0,0,1,0,1,1,0,0,0,1,0,0,1,0,1,0,1,0,bianlian
+Sherr Puttmann Akins Lamb PC,17/9/2024,5,,United States,Law,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,bianlian
+Affiliated Dermatologists and Dermatologic Surgeons,29/5/2024,N/A,,United States,Healthcare,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bianlian
+Cislo & Thomas LLP,25/1/2024,7,3072,United States,Law,0,0,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,bianlian
+Transit Mutual Insurance Corporation,3/7/2024,2,,United States,Finance,1,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,1,0,bianlian
+Akumin,3/2/2024,800,5120,United States,Healthcare,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,bianlian
+Lindsay Municipal Hospital,8/3/2024,13,,United States,Healthcare,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bianlian
+Law Office of Michael H Joseph,15/2/2024,5,1945.6,United States,Law,0,0,1,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0,bianlian
+J.P. Original,21/2/2024,9,1228.8,United States,Retail,0,0,1,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,bianlian
+Fish Nelson & Holden,26/8/2024,5,,United States,Law,0,0,1,0,0,1,0,0,0,1,0,0,1,0,1,0,0,0,bianlian
+Donear Industries,3/2/2024,71,3584,India,Manufacturing,1,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,bianlian
+"Hypertension Nephrology Associates, P.C.",7/3/2024,5,506,United States,Healthcare,1,0,1,0,0,1,1,1,0,0,0,0,0,0,0,1,1,0,bianlian
+Scott Pharma Solutions,27/8/2024,5,,United States,Healthcare,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,bianlian
+ASI,27/6/2024,370,,United States,IT Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bianlian
+Pavilion Construction LLC,29/5/2024,N/A,,United States,Construction,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bianlian
+US Dermatology Partners,17/8/2024,210,,United States,Healthcare,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,bianlian
+Augusta Orthopedic,23/7/2024,10,,United States,Healthcare,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,bianlian
+Dr. Leeman ENT,26/3/2024,5,480,United States,Healthcare,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,bianlian
+Keya Accounting and Tax Services LLC,6/9/2024,5,,United States,Finance,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,bianlian
+M.Royo & KlockMetal,27/8/2024,5,,Argentina,Manufacturing,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,bianlian
+Azteca Tax Systems,20/5/2024,5,484,United States,Finance,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,bianlian
+Payne & Jones,25/6/2024,7.2,1689.6,United States,Law,0,0,1,0,0,1,0,1,0,1,0,0,1,0,1,0,0,1,bianlian
+GROWTH by NCRC,26/4/2024,5,830,United States,Finance,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,bianlian
+Shoma group,13/3/2024,20,2048,United States,Finance,0,0,1,1,1,1,0,0,0,1,0,0,1,0,1,0,1,0,bianlian
+"Republic Shipping Consolidators, Inc",8/1/2024,5,117,United States,Transportation & Logistics,0,0,1,1,1,1,0,1,0,1,0,0,1,0,0,0,1,0,bianlian
+Better Business Bureau,25/8/2024,400,,United States,Non-Profit,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,bianlian
+"Karvo Companies, Inc.",18/8/2024,6,,United States,contracting,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,bianlian
+Commonwealth Capital,2/2/2024,91.1,2048,Singapore,Finance,1,0,1,0,0,1,0,1,0,0,0,0,1,1,0,0,0,0,bianlian
+"Independent Recovery Resources, Inc.",7/1/2024,5,1126.4,United States,Finance,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,bianlian
+Nutec Group,31/5/2024,54.1,,United States,Manufacturing,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,bianlian
+CTSI,9/2/2024,7.9,978,United States,Business Services,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,bianlian
+"Legend Properties, Inc.",3/7/2024,29,,United States,Finance,1,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,1,0,bianlian
+Dordt University,2/7/2024,36.2,3072,United States,Education,0,0,1,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0,bianlian
+Playa Vista Job Opportunities and Business Services,16/8/2024,5,950,United States,recruitment,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,bianlian
+Air Sino-Euro Associates Travel Pte. Ltd,2/2/2024,21.8,736,Singapore,Hospitality,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,bianlian
+Western Saw Inc.,2/6/2024,19,,United States,Construction,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,bianlian
+"Martin's, Inc.",26/3/2024,30,1433.6,United States,Food & Beverage,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,bianlian
+Advantage Orthopedic & Sports Medicine Clinic,27/2/2024,5,600,United States,Healthcare,1,0,1,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,bianlian
+"Palmer Construction Co., Inc",7/3/2024,13,,United States,Construction,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,bianlian
+Tandem,13/2/2024,5,2150.4,United States,Design,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,bianlian
+Accelon Technologies Private,16/8/2024,7.1,480,India,IT Services,1,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,bianlian
+Bunkhouse Group,30/8/2024,11,2764.8,United States,Hospitality,0,0,1,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0,bianlian
+Sable International,19/8/2024,7,,United Kingdom,Finance,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,bianlian
+Dragon Tax and Management INC,20/5/2024,5,334,United States,Finance,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,bianlian
+Bay Orthopedic & Rehabilitation Supply,10/2/2024,5,400,United States,Transportation & Logistics,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,bianlian
+Insula Group,18/7/2024,5,,Australia,IT Services,0,0,0,1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,bianlian
+GRTC Transit System,18/2/2024,100,1536,United States,Transportation & Logistics,1,0,1,1,1,1,0,0,0,1,0,0,1,0,1,0,1,0,bianlian
+Neurobehavioral Medicine Consultants,30/4/2024,5,60,United States,Healthcare,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,bianlian
+TechNet Kronoberg AB,21/2/2024,1,278,Sweden,IT Services,0,0,0,1,1,0,0,1,0,1,0,0,1,0,0,0,0,0,bianlian
+Image Craft,18/4/2024,30,1945.6,United States,IT Services,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,bianlian
+"Keboda Technology Co., Ltd.",27/3/2024,300,1228.8,China,Manufacturing,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,bianlian
+CK Associates,5/9/2024,12,,United States,Environmental Services,0,0,1,0,0,1,0,0,0,1,0,0,1,0,1,0,0,0,bianlian
+HRTec Inc,2/3/2024,5,,United States,Media,0,0,1,1,1,1,0,0,0,1,0,0,1,0,1,0,1,0,bianlian
+defi SOLUTIONS.,5/6/2024,126,,United States,IT Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bianlian
+Northern Minerals Limited,2/6/2024,N/A,,Australia,Construction,0,0,1,0,1,0,1,0,0,0,0,0,1,1,0,0,1,0,bianlian
+"Cole, Cole, Easley & Sciba",28/2/2024,5,1536,United States,Law,0,0,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,bianlian
+MA Engineering,9/2/2024,6,94,United States,Manufacturing,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,bianlian
+"Western Supplies, Inc",3/9/2024,7,,United States,Retail,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,bianlian
+Studio Legale Associato Isolabella,4/9/2024,5,1331.2,Italy,Law,0,0,1,0,0,1,0,1,0,1,0,0,1,0,1,0,0,1,bianlian
+"Smart Source, Inc.",9/9/2024,80,,United States,IT Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bianlian
+Marchassociates,20/2/2024,20,,United States,Construction,0,0,1,1,1,1,0,0,0,1,0,0,0,0,1,0,1,0,bianlian
+MEL aviation Ltd,2/7/2024,28,4300.8,United Kingdom,Manufacturing,0,0,1,0,0,1,1,1,0,0,0,0,0,1,1,0,0,0,bianlian
+"Chaney, Couch, Callaway, Carter & Associates Family Dentistry.",2/2/2024,5,245,United States,Healthcare,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,bianlian
+Clinica de Salud del Valle de Salinas,20/6/2024,27,1740.8,United States,Healthcare,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,bianlian
+Central Carolina Insurance Agency Inc.,13/6/2024,6,,United States,Finance,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,bianlian
+Len Dubois Trucking,9/6/2024,26,,Canada,Transportation & Logistics,0,0,1,0,0,1,0,1,1,1,0,0,1,0,1,0,1,0,bianlian
+Texas Alcohol & Drug Testing Service,16/8/2024,6,218,United States,Healthcare,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,bianlian
+Lieberman LLP,1/4/2024,5,150,United States,Finance,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,bianlian
+The Wiser Financial Group,19/2/2024,6,300,United States,Finance,0,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,1,0,bianlian
+National Publisher Services LLC,25/6/2024,7.8,715,United States,Media,0,0,1,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,bianlian
+"Mayer Antonellis Jachowicz & Haranas, LLP",15/3/2024,5,170,United States,Law,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,bianlian
+MAH Machine,20/6/2024,20,227,United States,Manufacturing,0,0,1,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,bianlian
+Eric Rossi CPA LLC,30/8/2024,5,910,United States,Law,0,0,1,0,0,1,0,1,0,1,0,0,1,0,1,0,0,1,bianlian
+Southwest Family Medicine Associates,12/8/2024,5,,United States,Healthcare,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,bianlian
+Optometric Physicians of Middle Tennessee,20/5/2024,5,1536,United States,Healthcare,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,1,0,bianlian
+Texas Retina Associates,15/6/2024,34.6,,United States,Healthcare,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bianlian
+Delta Pipeline,6/6/2024,15,,United States,Construction,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bianlian
+"Hypertension Nephrology Associates, P.C.",27/2/2024,5,506,United States,Healthcare,1,0,1,0,0,1,1,1,0,0,0,0,0,0,0,1,1,0,bianlian
+"Robert D. Clements Jr Law Group, LLLP",12/2/2024,2,200,United States,Law,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,bianlian
+First Professional Services,7/3/2024,5,755,United States,Healthcare,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,bianlian
+Ladov Law Firm,10/9/2024,5,105,United States,Law,0,0,1,0,0,1,0,1,0,1,0,0,1,0,1,0,0,1,bianlian
+North Star Tax And Accounting,18/1/2024,6,480,United States,Finance,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,bianlian
+Medall Healthcare Pvt Ltd.,27/3/2024,53.3,1536,India,Healthcare,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,bianlian
+New York Home Healthcare,7/3/2024,8,,United States,Healthcare,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,bianlian
+"Wind Composite Services Group, LLC",25/6/2024,20,412,United States,Energy,0,0,1,0,0,1,1,1,0,1,0,0,1,1,1,0,0,0,bianlian
+JE Owens & Company PA.,18/4/2024,5,,United States,Energy,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,bianlian
+ICWI,29/8/2024,46,,Jamaica,Finance,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,bianlian
+gocco,18/2/2024,937.9,136,Spain,Retail,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cactus
+XINDAO,22/4/2024,50.5,1024,Netherlands,Retail,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cactus
+RENYPICOT,20/3/2024,911.7,350,Spain,Food & Beverage,1,0,1,0,1,1,0,1,1,1,0,0,1,0,0,0,1,0,cactus
+KELSON,28/3/2024,61.8,1536,Canada,Industrial Machinery & Equipment,1,0,0,0,1,1,1,1,1,1,0,0,1,0,0,0,1,0,cactus
+FLODRAULIC,15/9/2024,58.4,32,United States,Industrial Machinery & Equipment,0,0,1,0,1,1,1,1,1,1,0,0,1,0,0,0,1,0,cactus
+HYDMECH,10/7/2024,47.2,980,Canada,Industrial Machinery & Equipment,0,0,0,0,1,1,0,1,1,0,0,0,1,0,0,0,1,0,cactus
+FBT INC.,7/7/2024,70.8,180,United States,Transportation & Logistics,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,cactus
+VERCO,22/7/2024,17.5,592,United Kingdom,Manufacturing,0,0,1,0,1,1,1,1,1,1,0,0,1,0,0,0,1,0,cactus
+REGULATOR MARINE,13/5/2024,28.1,630,United States,Manufacturing,1,0,1,0,1,0,0,1,0,1,1,0,0,0,0,0,1,0,cactus
+BALBOA BAY RESORT,15/9/2024,101,790,United States,Hospitality,0,0,1,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,cactus
+EBIR,18/4/2024,5,2457.6,Spain,Retail,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cactus
+WKW GROUP,12/1/2024,707,2457.6,Germany,Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cactus
+SCANDA,19/5/2024,23.6,387,Mexico,Business Services,1,0,0,0,0,1,0,1,1,1,1,0,1,0,0,0,1,0,cactus
+SA GLOBAL,18/4/2024,243.7,41,Canada,IT Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cactus
+EXCO,28/8/2024,76.4,251,Germany,IT Services,0,0,1,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,cactus
+REGENCY FURNITURE,15/4/2024,369,300,United States,Retail,1,0,1,0,0,1,0,1,1,1,1,0,1,0,0,0,1,0,cactus
+IDDINK GROUP,13/5/2024,80.1,1024,Netherlands,IT Services,1,0,1,0,0,1,0,1,1,1,0,0,0,0,0,0,1,0,cactus
+MCALVAIN,15/4/2024,199,1228.8,United States,Construction,0,0,1,0,1,1,1,1,1,1,0,0,1,0,0,0,1,0,cactus
+BELL GROUP,12/1/2024,103.6,9,United Kingdom,Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cactus
+"INTERCITY INVESTMENTS, INC.",18/1/2024,31.1,2457.6,United States,Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cactus
+SKY LIGHT,9/7/2024,26.4,50,Denmark,Manufacturing,0,0,1,0,0,1,1,1,1,1,0,0,1,0,0,0,1,0,cactus
+SCHUETTE METALS,23/5/2024,28.9,280,United States,Industrial Machinery & Equipment,1,0,0,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,cactus
+PBS SYSTEMS,12/1/2024,71.5,202,Canada,Retail,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cactus
+CONCORDE GROUP,18/4/2024,150,2,Canada,Hospitality ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cactus
+GLYN MARAIS,7/7/2024,11.3,105,South Africa,Law,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,cactus
+DESKCENTER AG,7/7/2024,25.9,224,Germany,IT Services,1,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,1,0,cactus
+DEMOS GROUP,7/8/2024,37.5,870,France,Professional Training and Coaching,0,0,1,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,cactus
+QOSINA,26/3/2024,37.9,375,United States,Manufacturing,0,0,0,0,1,1,0,1,1,1,0,0,1,0,0,0,0,0,cactus
+BEST TRANSPORTATION,15/4/2024,24.8,24,United States,Transportation & Logistics,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,cactus
+CHAMPEAU,16/9/2024,25.5,130,Canada,Manufacturing,0,0,1,0,1,1,1,1,1,1,0,0,0,0,0,0,1,0,cactus
+SIMSON MAXWELL,10/9/2024,29.4,357,Canada,Industrial Machinery & Equipment,0,0,0,0,1,1,1,1,1,1,0,0,1,0,0,0,1,0,cactus
+CTS,21/6/2024,11.8,93,Taiwan,IT Services,1,0,0,0,1,1,0,0,1,1,1,0,0,0,0,0,1,0,cactus
+SOFIDEL,9/7/2024,66.1,74,Italy,Manufacturing,0,0,1,0,0,1,0,1,1,1,0,0,0,0,0,0,1,0,cactus
+CLESHAR,21/3/2024,239.3,1024,United Kingdom,Transportation & Logistics,1,0,1,0,1,1,1,1,1,1,0,0,1,0,0,0,1,0,cactus
+MIHLFELD,28/8/2024,88.2,316,United States,Transportation & Logistics,0,0,0,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,cactus
+LABERGE TRANSPORT,10/7/2024,27.8,110,Canada,Transportation & Logistics,1,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,1,0,cactus
+TIBA IT SERVICES,28/8/2024,124.3,29,Mexico,IT Services,0,0,1,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,cactus
+DAYSTAR,7/7/2024,120.3,125,United States,IT Services,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,cactus
+AMMEGA,21/4/2024,66.1,3072, Netherlands,Manufacturing,0,0,1,0,1,1,1,1,1,1,0,0,1,0,0,0,1,0,cactus
+NEWAGESYS,28/3/2024,24.1,319,United States,Business Services,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,cactus
+DTS,28/1/2024,31.1,2457.6,United States,Transportation & Logistics,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cactus
+LEONARD'S,5/8/2024,22,575,United States,Food & Beverage,1,0,1,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,cactus
+CHUBB BULLEID,5/8/2024,14,362,United Kingdom,Law,0,0,1,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,cactus
+MCPHILLIPS,10/9/2024,40.8,1228.8,United Kingdom,Construction,0,0,1,0,1,1,1,1,1,1,0,0,1,0,0,0,1,0,cactus
+DENKAI AMERICA,5/8/2024,18.1,80,United States,Manufacturing,0,0,1,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,cactus
+RANGER AMERICAN,10/9/2024,52.9,218,United States,Retail,0,0,1,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,cactus
+COOP,12/1/2024,66.1,257,Sweden,Food & Beverage,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cactus
+HI - CONE,29/1/2024,27,650,United States,Food & Beverage,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cactus
+RIOMARINE INC,16/9/2024,56,490,United States,Marine,1,0,1,0,1,1,1,1,1,1,1,0,1,0,0,0,1,0,cactus
+STA,30/6/2024,71.3,278,United States,Manufacturing,0,0,0,0,1,1,0,1,1,1,0,0,0,0,0,0,1,0,cactus
+WESTERN WYOMING BEVERAGES,5/8/2024,59.2,102,United States,Retail,1,0,1,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,cactus
+DAHL VALVE LIMITED,5/8/2024,23.9,80,Canada,Construction,1,0,1,0,1,1,1,1,1,1,1,0,1,0,0,0,1,0,cactus
+SANYOSHOKAI,21/6/2024,412.6,248,Japan,Retail,0,0,1,0,1,1,0,1,1,1,0,0,0,0,0,0,1,0,cactus
+ACFIN,19/5/2024,25.1,460,Chile,Finance,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0,0,1,1,cactus
+HUNDHAUSEN,10/7/2024,150,650,Germany,Construction,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,cactus
+ISOMETRIX,22/7/2024,45.8,126,United States,Business Services,0,0,1,1,0,1,1,1,1,1,0,0,1,0,0,0,1,0,cactus
+QUAKER WINDOWS & DOORS,12/1/2024,271.6,2457.6,United States,Retail,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cactus
+ESPACK EUROLOGISTICA,4/6/2024,17.3,11,Spain,Business Services,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,cactus
+"COASTAL CARGO COMPANY, LLC",18/4/2024,36.6,3,United States,Transportation & Logistics,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cactus
+REA MAGNET WIRE,9/7/2024,100,100,United States,Electronics,0,0,1,0,0,1,1,1,1,1,0,0,1,0,0,0,1,0,cactus
+CONTENDERBOATS,28/3/2024,51.8,65,United States,Marine ,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,cactus
+MILLIMAGES,7/7/2024,12.6,147,France,IT Services,0,0,1,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,cactus
+JAY GROUP,8/2/2024,62.2,270,United States,Transportation & Logistics,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cactus
+CTG BRANDS,21/6/2024,29.6,327,Canada,Manufacturing,1,0,1,0,0,1,0,1,1,1,1,0,0,0,0,0,1,0,cactus
+TRIDON,12/1/2024,34,175,Australia,Manufacturing ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cactus
+SCHNIEDER ELECTRIC,13/3/2024,66.1,1536,France,Manufacturing,0,0,1,0,1,1,1,1,1,1,0,0,1,0,0,0,1,0,cactus
+"AERO DYNAMIC MACHINING, INC.",15/4/2024,66.1,1126.4,United States,Industrial Machinery & Equipment,1,0,1,0,1,0,0,1,0,1,1,0,0,0,0,0,1,0,cactus
+APS,25/2/2024,66.1,54,United States,IT Services ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cactus
+REMKES,7/3/2024,31.4,190,Netherlands,Food & Beverage,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cactus
+GRUPA TOPEX,26/3/2024,66.5,638,Poland,Manufacturing,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,cactus
+GDI INTEGRATED FACILITY SERVICES INC.,12/1/2024,66.1,2457.6,Canada,Facility Management,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cactus
+DOLLMAR,5/6/2024,28.3,127,Italy,Manufacturing,1,0,0,0,1,1,0,1,0,1,1,0,0,0,0,0,1,0,cactus
+FIRST PRIORITY DKI,21/6/2024,22.9,111,United States,Consumer Services,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,1,0,cactus
+DRM,13/5/2024,266.6,175,United States,Hospitality,0,0,1,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,cactus
+OOGP,8/2/2024,11.4,63,United States,Food & Beverage,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cactus
+SECURITY INSTRUMENT,3/9/2024,15.4,141,United States,Business Services,1,0,1,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,cactus
+JMT,21/6/2024,17.9,331,United States,Construction,0,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,0,cactus
+BACHOCO,12/1/2024,66.1,130,Mexico,Food & Beverage,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cactus
+PLYMOUTH TUBE,20/3/2024,137,1873.92,United States,Manufacturing ,1,0,1,0,1,1,1,1,1,1,1,0,1,0,0,0,1,0,cactus
+FULCRUM,19/5/2024,2.1,57,United States,IT Services,0,0,1,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,cactus
+SPB,18/2/2024,81.4,706,Spain,IT Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cactus
+PARKSITE,18/2/2024,452.7,170,United States,Construction,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cactus
+FAMILY GUARDIAN,9/6/2024,51.7,1536,Bahamas,Insurance,1,0,1,0,0,0,0,1,1,1,1,0,1,0,0,0,1,0,cactus
+Robertson Cheatham Farmers,10/4/2024,5,15,United States,Food & Beverage,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Hallesche Kraftverkehrs & Speditions GmbH,20/3/2024,24,51,Germany,Transportation & Logistics,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Crowe,27/8/2024,1300,1476,United States,BUnited Statesiness Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Magicolor,29/4/2024,5,,Canada,IT Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Arcmed Group,8/8/2024,8,3,United States,Healthcare,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,hunters international
+Mid-South Health Systems,19/4/2024,29,411,United States,Healthcare,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Bartlett & Weigle Co. LPA.,1/7/2024,,214,United States,Law,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Optima Manufacturing,11/4/2024,28,412,Canada,Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+NetVigour,11/3/2024,7,,United States,IT Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Trade-Mark Industrial,8/5/2024,286,0,Canada,Construction,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Réseau Ribé,16/2/2024,25,,France,IT Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+SOPEM,16/3/2024,11,23,Tunisia,Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Paulmann Licht,9/4/2024,57,320,Germany,Energy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Alupar Investimento SA,16/3/2024,939,0,Brazil,Energy,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,hunters international
+Inszone Insurance Services,11/4/2024,280,213,United States,Finance,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,hunters international
+Carespring Health Care,11/2/2024,57,391,United States,Healthcare,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Finlay Screening & Crushing Systems,20/2/2024,19,,Australia,Construction,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+ATL Leasing,13/3/2024,67,162,Tunisia,BUnited Statesiness Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Chicago Zoological Society,17/2/2024,72,,United States,Non-Profit,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Jess-link Products,20/5/2024,150,435,Taiwan,IT Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Wapiti Energy,16/3/2024,26,436,United States,Energy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Tamdown,25/1/2024,141,1898,United Kingdom,Construction,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Integrated Control,13/4/2024,6,244,United States,IT Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Durham Manufacturing,31/7/2024,23,14,United States,Manufacturing,0,1,0,0,0,2,0,0,0,0,0,0,0,1,0,1,0,1,hunters international
+Сoquitlam Concrete,4/7/2024,5,10,United States,Construction,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Jordano's Inc.,13/4/2024,229,0,United States,Food & Beverage,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+DataBank,4/4/2024,278,1616,United States,IT Services,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,hunters international
+Circle K Atlanta,19/6/2024,74,55,United States,Retail,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,hunters international
+Sun Holdings,18/3/2024,1400,33,United States,Food & Beverage,1,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,1,hunters international
+Caxton and CTP Publishers and Printers,13/4/2024,380,0,South Africa,IT Services,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,hunters international
+RAVEN Mechanical,7/6/2024,144,0,United States,Mechanical Services,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,hunters international
+Bojangles’ International,13/4/2024,270,294,United States,Food & Beverage,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Hanon Systems,11/8/2024,7200,2328,South Korea,Automotive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Benchmark Management Group,11/2/2024,23,512,United States,Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Lancaster County Sheriff's Office,11/2/2024,5,36,United States,Government,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+"City of St. Cloud, Florida",16/4/2024,57,1369,United States,Government,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Jangho Group,3/8/2024,2800,1245,China,Construction,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+SuperDrob S.A.,16/8/2024,250,443,Poland,Food & Beverage,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+"DiVal Safety Equipment, Inc.",5/3/2024,62,45,United States,Manufacturing,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,1,hunters international
+Kaplan,16/3/2024,9,13,United States,Education,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Northeast Rehabilitation Hospital Network,19/7/2024,80,0,United States,Healthcare,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Ducont,17/2/2024,55,,United States,IT Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+R.C. Moore Trucking,23/1/2024,53,608,United States,Transportation & Logistics,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Hibser Yamauchi Architects,8/5/2024,16,305,United States,Design,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Rocky Mountain Sales,26/4/2024,5,301,United States,Retail,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Project M.O.R.E.,8/5/2024,7,23,United States,Non-Profit,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Harper Industries,11/6/2024,20,474,United States,Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+HOYA Corporation,16/7/2024,5600,0,Japan,Healthcare,2,0,0,0,1,0,3,2,0,0,0,0,0,0,0,1,0,0,hunters international
+Pella,10/5/2024,3800,339,United States,Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Acteon Group,17/6/2024,200,0,France,Healthcare,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Frederick Wildman and Sons,10/5/2024,22,129,United States,Food & Beverage,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Carigali Hess Operating Company,14/7/2024,30,,Malaysia,Energy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Gibbs Hurley Chartered Accountants,15/7/2024,5,,Australia,Finance,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Navitas Semiconductor,30/8/2024,100,110,Ireland,Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Legrand CRM,15/6/2024,7,157,Australia,IT Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+CLARK Material Handling Company,26/3/2024,50,28,United States,Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Anderson Oil & Gas,7/8/2024,,164,United States,Energy,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,hunters international
+Sting AD,20/3/2024,350,0,Bulgaria,Design,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,2,hunters international
+Schuster Trucking Company,16/3/2024,68,161,United States,Transportation & Logistics,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Priefert,29/7/2024,240,3,United States,Agriculture,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,hunters international
+Communication Federal Credit Union,14/2/2024,49,77,United States,Financial Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Kreyenhop & Kluge,16/3/2024,7,438,Germany,Food & Beverage,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+NanoLumens,13/4/2024,18,133,United States,IT Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+T A Khoury,9/4/2024,5,63,Australia,Real Estate,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,hunters international
+Sindicato de Enfermería (SATSE),16/3/2024,40,179,Spain,Healthcare,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+AGL,19/3/2024,,,China,Energy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Benetton Group,4/4/2024,1300,0,Italy,Retail,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,hunters international
+Jack Doheny Company,14/4/2024,67,572,United States,Industrial Services,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Aftrp,17/2/2024,16,653,France,Education,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+PSI,17/2/2024,584,88,United States,IT Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Intersport,4/4/2024,3400,0,France,Retail,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,hunters international
+Chicony Electronics,1/5/2024,3300,4,Taiwan,Electronics,0,0,0,0,5,0,0,0,0,0,0,0,0,1,0,0,0,0,hunters international
+Khandelwal Laboratories Pvt,3/8/2024,537,126,India,Healthcare,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,hunters international
+Ferraro Group,19/8/2024,17,210,Italy,Public Relations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Miki Travel,16/3/2024,592,31,United Kingdom,Travel & Tourism,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,hunters international
+Dalmahoy Hotel & Country Club,11/2/2024,13,949,United Kingdom,Hospitality,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Seamon Whiteside,19/7/2024,18,82,United States,Design,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,hunters international
+Concrete,12/6/2024,5,,Canada,Construction,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Omni Family Health,7/8/2024,23,102,United States,Healthcare,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,hunters international
+Interface,4/4/2024,1300,0,United States,Manufacturing,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,hunters international
+Manuchar,29/5/2024,2800,289,Belgium,Transportation & Logistics,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Gallup McKinley County Schools,18/1/2024,72,,United States,Education,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Akkanat Holding,20/8/2024,,623,T�rkiye,Holding Company,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+MS Ultrasonic Technology Group,15/7/2024,257,0,Germany,Manufacturing,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,hunters international
+Avianor Aircraft,11/2/2024,21,849,Canada,Aerospace,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+WheelerShip,2/7/2024,5,9,United States,Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Kenya Urban Roads Authority,14/7/2024,5,18,Kenya,Government,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,hunters international
+Betances Health Center,24/7/2024,5,124,United States,Healthcare,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+St. Johns River Water Management District,8/3/2024,135,292,United States,Government,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Groupe Goyette,11/2/2024,25,238,Canada,Construction,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Aero Tec Laboratories,14/5/2024,53,315,United States,Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Concello de Teo,16/2/2024,43,65,Spain,Government,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Griffin Dewatering,6/3/2024,32,68,United States,Industrial Services,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+"Gunning & LaFazia, Inc.",4/1/2024,5,0,United States,Law,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+HSI,19/3/2024,,,Spain,IT Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Impact Energy Services,11/2/2024,12,32,Canada,Electronics,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Sysmex,29/3/2024,3000,1,Japan,Healthcare,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,hunters international
+Fractalia Group,6/8/2024,100,153,Spain,IT Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Exela Technologies,3/4/2024,1100,275,United States,IT Services,0,0,0,0,0,2,0,1,1,1,0,0,0,0,1,0,0,1,hunters international
+Treasury of Cote d'Ivoire,13/5/2024,392,,Cote d'Ivoire,Government,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Therapeutic Health Services,20/3/2024,17,0,United States,Healthcare,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,hunters international
+BeneCare Dental Insurance,4/4/2024,35,0,United States,Insurance,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,hunters international
+Richelieu Foods,8/5/2024,303,0,United States,Food & Beverage,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,hunters international
+Physical & Occupational Therapy Examiners of Texas,25/7/2024,5,139,United States,Government,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,hunters international
+ComNet Communications,15/7/2024,300,0,United States,IT Services,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+MRI,16/6/2024,25,15,United States,Finance,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Toyota Brazil,13/4/2024,1700,0,Brazil,Automotive,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Tiete Automobile,16/3/2024,26,0,Brazil,Automotive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+SSS Australia,26/4/2024,17,67,Australia,Healthcare,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Kleven Construction,31/7/2024,13,0,United States,Construction,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,hunters international
+Greater Napanee,17/2/2024,53,82,Canada,Government,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Thorite Group,16/3/2024,69,307,United Kingdom,Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Indika Energy,10/7/2024,3000,,Indonesia,Energy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Cosmocolor,30/5/2024,68,114,Mexico,IT Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Braum's Inc,16/7/2024,3000,1,United States,Food & Beverage,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,hunters international
+Thermosash Commercial Ltd,4/1/2024,70,1772,New Zealand,Construction,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Notions Marketing,13/4/2024,250,0,United States,Energy,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,hunters international
+Voice Technologies,17/2/2024,5,,United Kingdom,IT Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Crownlea Group,29/7/2024,89,0,United Kingdom,Manufacturing,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,hunters international
+NetOne,13/8/2024,123,98,Zimbabwe,IT Services,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,hunters international
+ACE Air Cargo,9/3/2024,23,250,United States,Transportation & Logistics,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+IJM Corporation,24/2/2024,985,,Malaysia,Construction,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Ausa,16/3/2024,70,376,United States,Manufacturing,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Innovative Automation,25/1/2024,24,30,United States,IT Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Axip Energy Services,7/6/2024,100,0,United States,Energy,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,hunters international
+Crimson Interactive,23/8/2024,50,511,United States,IT Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Nastech,17/2/2024,6,25,United Arab Emirates,IT Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Village of Skokie,16/3/2024,16,865,United States,Government,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Lantronix Inc.,16/7/2024,150,51,United States,IT Services,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,hunters international
+BS&B Safety Systems L.L.C,17/2/2024,68,5,,IT Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+CP Communications,17/2/2024,22,63,United States,IT Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Formosa Plastics USA,17/5/2024,1200,0,United States,Manufacturing,0,0,0,0,1,2,3,0,0,0,0,1,1,0,0,0,0,0,hunters international
+Panzeri Cattaneo,20/3/2024,,,Italy,Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+ENEAItaly,2/8/2024,500,219,Italy,Government,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Arrabawn Co-op,29/5/2024,69,385,Ireland,Food & Beverage,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+LRN,3/8/2024,50,745,United States,Education,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Citi Trends,4/4/2024,742,520,United States,Retail,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Charles Trent,25/1/2024,27,59,United Kingdom,Automotive Recycling,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+The Gill Corporation,29/7/2024,272,0,United States,Transportation & Logistics,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,hunters international
+Multisuns Communication,4/7/2024,,5,Taiwan,IT Services,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+ACS,17/2/2024,,,United States,IT Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Santa Rosa,19/7/2024,60,258,Argentina,Government,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Bradford Health,4/1/2024,110,679,United States,Healthcare,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,hunters international
+Kablutronik SRL,13/4/2024,20,79,Romania,Energy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Central Power Systems and Services,25/4/2024,71,1323,United States,Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Beaver Run Resort,4/4/2024,38,0,United States,Hospitality,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Casco Antiguo,6/8/2024,10,,Spain,Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+Treasury of Cote d'Ivoire,28/8/2024,392,,Cote d'Ivoire,Government,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hunters international
+RSH legal,29/4/2024,5.6,6144,United States,Law,0,0,0,0,0,1,0,1,1,1,0,0,1,0,0,1,1,0,danon
+Erler & Kalinowski,17/5/2024,14.5,6144,United States,Architecture,0,0,0,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,danon
+The Blake Law Firm,8/4/2024,5,6144,United States,Law,0,0,0,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,danon
+Dunn Solutions,19/8/2024,36.1,6144,United States,Business,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,danon
+Semilab,21/4/2024,16.8,6144,United States,Electronics,0,0,0,0,1,1,0,1,1,1,0,0,1,0,0,0,0,0,danon
+College Park Industries,7/6/2024,22.4,6144,United States,Healthcare,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,danon
+Connell Mahon Architects,4/5/2024,5.4,6144,Ireland,Architecture,0,0,0,0,1,1,0,1,1,1,0,0,1,0,0,0,1,0,danon
+Allen Blasting and Coating,18/4/2024,20,6144,United States,Trade,0,0,0,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,danon
+FIFCOUnited States,27/6/2024,310.6,6144,United States,Food & Beverage,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,danon
+Information Integration Experts,17/5/2024,5,6144,United States,IT Services,1,1,0,1,0,0,0,1,1,1,0,0,0,0,0,0,1,0,danon
+United Equitable Group,12/4/2024,9.2,6144,United States,Insurance,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,danon
+M&M Transport Services,24/8/2024,28.2,6144,United States,Logistics,0,0,0,0,0,1,0,1,1,1,1,1,1,1,0,1,1,0,danon
+S&F Concrete Contractors,2/6/2024,30.9,6144,United States,Construction,0,0,0,0,0,1,0,0,1,1,0,1,1,0,0,0,1,0,danon
+Stahly Engineering & Associates,9/9/2024,14.4,6144,United States,Architecture,0,0,0,0,1,1,1,0,1,1,0,0,1,1,0,0,1,1,danon
+Glenwood Management,18/5/2024,49.1,6144,United States,Real Estate,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,1,0,danon
+PromarkBRANDS,7/7/2024,11.6,6144,United States,Electronics,0,0,0,0,0,1,0,0,1,1,0,0,1,1,0,0,1,0,danon
+Northeast Orthopedics and Sports Medicine,18/5/2024,15,6144,United States,Healthcare,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,danon
+Pediatric Urology Associates,7/4/2024,45,6144,United States,Healthcare,0,0,0,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,danon

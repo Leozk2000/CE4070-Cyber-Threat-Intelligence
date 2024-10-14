@@ -1,0 +1,19 @@
+company_name,country,date_of_attack,revenue,industry,data_volume,data_description,Data Type - Databases,Data type - Applications,Data Type - Emails,Data Type - Source Code,Data Type- Designs,Data Type - Financial Information,Data Type -Research Information,Data Type - Employee Information,Data Type - Customer Information,Data Type - Company Information,Data Type - Backup Systems Information,Data Type - Supply Systems Information,Data Type - Business Deals Information,Data Type - Manufacturing Information,Data Type -  Government Information,Data Type - Medical Information,Data Type - Personal Information,Data Type - Others
+RSH legal,United States,"Apr 29, 2024 ",5.6,Law,6144,Finance,0,0,0,0,0,1,0,1,1,1,0,0,1,0,0,1,1,0
+Erler & Kalinowski,United States,"May 17, 2024 ",14.5,Architecture,1024,Finance,0,0,0,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0
+The Blake Law Firm,United States,"Apr 08, 2024 ",5,Law,740,Finance,0,0,0,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0
+Dunn Solutions,United States,"Aug 19, 2024 ",36.1,Business,1146.88,Finance,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+Semilab,United States,"Apr 21, 2024 ",16.8,Electronics,1505.28,Finance,0,0,0,0,1,1,0,1,1,1,0,0,1,0,0,0,0,0
+College Park Industries,United States,"Jun 07, 2024 ",22.4,Healthcare,5089.28,Finance,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0
+Connell Mahon Architects,Ireland,"May 04, 2024 ",5.4,Architecture,1024,Finance,0,0,0,0,1,1,0,1,1,1,0,0,1,0,0,0,1,0
+Allen Blasting and Coating,United States,"Apr 18, 2024 ",20,Trade,1024,Finance,0,0,0,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0
+FIFCO United States,United States,"Jun 27, 2024 ",310.6,Food and Beverage,7260.16,Finance,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0
+Information Integration Experts,United States,"May 17, 2024",5,IT Services,1043,IT Services,1,1,0,1,0,0,0,1,1,1,0,0,0,0,0,0,1,0
+United Equitable Group,United States,"Apr 12, 2024",9.2,Insurance,300,IT Services,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0
+M&M Transport Services,United States,"Aug 24, 2024",28.2,Logistics,868,Finance,0,0,0,0,0,1,0,1,1,1,1,1,1,1,0,1,1,0
+S&F Concrete Contractors,United States,"Jun 02, 2024 ",30.9,Construction,1024,Finance,0,0,0,0,0,1,0,0,1,1,0,1,1,0,0,0,1,0
+Stahly Engineering & Associates,United States,"Sep 09, 2024 ",14.4,Architecture,1228.8,Finance,0,0,0,0,1,1,1,0,1,1,0,0,1,1,0,0,1,1
+Glenwood Management,United States,"May 18, 2024",49.1,Real Estate,1822.72,Finance,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,1,0
+PromarkBRANDS,United States,"Jul 07, 2024 ",11.6,Electronics,1484.8,Finance,0,0,0,0,0,1,0,0,1,1,0,0,1,1,0,0,1,0
+Northeast Orthopedics and Sports Medicine,United States,"May 18, 2024 ",15,Healthcare,1597.44,Finance,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0
+Pediatric Urology Associates,United States,"Apr 07, 2024 ",45,Healthcare,740,Finance,0,0,0,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0

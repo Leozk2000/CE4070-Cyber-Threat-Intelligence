@@ -1,0 +1,131 @@
+company_name,date_of_attack,revenue,data_volume,country,industry,Data Type - Databases,Data type - Applications,Data Type - Emails,Data Type - Source Code,Data Type- Designs,Data Type - Financial Information,Data Type -Research Information,Data Type - Employee Information,Data Type - Customer Information,Data Type - Company Information,Data Type - Backup Systems Information,Data Type - Supply Systems Information,Data Type - Business Deals Information,Data Type - Manufacturing Information,Data Type -  Government Information,Data Type - Medical Information,Data Type - Personal Information,Data Type - Others
+"On Q Financial, LLC",23/4/2024,270,N/A,United States,Finance,0,0,1,1,1,1,0,0,0,1,0,0,1,0,0,0,1,0
+Instron & ITW Inc,21/2/2024,1000,2048,United States,Manufacturing,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Thompson Davis & Co,13/8/2024,5,N/A,United States,Finance,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+Romeo Pitaro Injury & Litigation Lawyers,10/5/2024,5,N/A,Canada,Law,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Bluebonnet Nutrition,17/5/2024,26,N/A,United States,Manufacturing,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,0
+Panacea Healthcare Services,29/5/2024,5,N/A,United States,Finance,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+Bira 91,4/4/2024,343,1945.6,India,Food and Beverage,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0
+Elite Limousine Plus Inc,25/6/2024,15.6,1843.2,United States,Transportation & Logistics,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+LT Business Dynamics,6/5/2024,5,920,United States,Finance,0,0,1,0,0,1,0,0,1,1,0,0,1,0,1,0,1,0
+"Pioneer Oil Company, Inc.",30/4/2024,20,N/A,United States,Energy,0,0,1,1,1,1,0,0,0,1,0,0,1,0,1,0,1,0
+Dobrowski Stafford & Pierce,7/3/2024,7,N/A,United States,Law,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,1,1
+Anniversary Holding,9/9/2024,5,2969.6,United States,Conglomerate,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Majestic Metals,10/9/2024,24.1,735,United States,Manufacturing,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Roncelli Plastics,24/3/2024,20,N/A,United States,Manufacturing,0,1,0,0,1,0,0,0,0,1,1,0,1,0,0,0,1,0
+KC Pharmaceuticals,19/1/2024,22.5,2560,United States,Healthcare,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+"Atwood & Cherny, P.C.",26/8/2024,5,N/A,United States,Law,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Benson Kearley IFG - Insurance Brokers & Financial Advisors,12/9/2024,20,N/A,Canada,Finance,0,0,0,0,1,0,0,1,0,1,1,0,1,1,0,0,1,0
+GCA Global Cargo Alliance,10/9/2024,5,1024,United States,Transportation & Logistics,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Consolidated Benefits Resources,1/4/2024,5.1,1228.8,United States,Finance,1,0,1,0,0,1,0,1,0,1,0,0,0,0,1,1,0,0
+HDI,10/9/2024,100,9728,Canada,Manufacturing,0,0,1,0,0,0,1,1,0,1,0,1,1,1,1,0,0,1
+Nikolaus & Hohenadel,20/6/2024,15,388,United States,Law,0,0,1,0,0,1,0,1,0,1,0,0,1,0,1,0,0,1
+"Florence Cement Company, Inc.",26/7/2024,16,N/A,United States,Contracting,0,0,1,1,1,1,0,0,0,1,0,0,1,0,1,0,1,0
+"GMJ & Co, Chartered Accountants",7/6/2024,5,110,India,Finance,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Critchfield & Johnston,20/6/2024,9.8,4812.8,United States,Law,0,0,1,0,0,1,0,1,0,1,0,0,1,0,1,0,0,1
+NSEIT Limited (a subsidiary of the National Stock Exchange of India),21/1/2024,50,3072,India,IT Services,1,1,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0
+NOVA Business Law Group,20/2/2024,5,880,United States,Law,0,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,1,0
+Battle Lumber Co.,9/9/2024,106,1126.4,United States,Manufacturing,0,0,1,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0
+Longview Oral & Maxillofacial Surgery,2/7/2024,5,2560,United States,Healthcare,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0
+Mountjoy,13/6/2024,71.8,N/A,United Kingdom,Construction,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0
+Island Transportation Corp.,13/8/2024,98,N/A,United States,Transportation & Logistics,1,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,1,0
+Center for Digestive Health,13/6/2024,6,N/A,United States,Healthcare,0,0,1,0,0,1,0,0,0,1,0,0,1,0,1,1,1,0
+Chambers Construction,10/4/2024,20.9,4300.8,United States,Construction,0,0,1,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0
+Martinaire Aviation,19/1/2024,20,365,United States,Airline,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,1,0
+Greenbox Loans Inc.,2/2/2024,21.6,1024,United States,Finance,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+P&B Capital Group,5/4/2024,N/A,N/A,United States,Finance,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mohawk Valley Cardiology PC,16/8/2024,5,N/A,United States,Healthcare,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0,1,1,0
+Texas Centers for Infectious Disease Associates,30/8/2024,8,N/A,United States,Healthcare,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0,1,1,0
+Somerset Logistics,8/1/2024,40,624,United States,Transportation & Logistics,1,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0
+Northeast Spine and Sports Medicine's,7/2/2024,7,400,United States,Healthcare,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0
+PBC Companies,16/8/2024,250,N/A,United States,Design,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+"Law Offices of Michael J Gurfinkel, Inc",11/9/2024,5,N/A,United States,Law,0,0,1,0,0,1,0,0,0,1,0,0,1,0,1,0,1,0
+"Wayne Wright, LLP.",28/8/2024,5,N/A,United States,Law,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,1,0
+Stein Fibers,10/9/2024,100,707,United States,Manufacturing,0,0,1,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0
+B&B Electric Inc,18/4/2024,40,750,United States,Construction,0,0,1,0,1,1,0,0,0,1,0,0,1,0,1,0,1,0
+Sherr Puttmann Akins Lamb PC,17/9/2024,5,N/A,United States,Law,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1
+Affiliated Dermatologists and Dermatologic Surgeons,29/5/2024,N/A,N/A,United States,Healthcare,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cislo & Thomas LLP,25/1/2024,7,3072,United States,Law,0,0,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0
+Transit Mutual Insurance Corporation,3/7/2024,2,N/A,United States,Finance,1,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,1,0
+Akumin,3/2/2024,800,5120,United States,Healthcare,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+Lindsay Municipal Hospital,8/3/2024,13,N/A,United States,Healthcare,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Law Office of Michael H Joseph,15/2/2024,5,1945.6,United States,Law,0,0,1,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0
+J.P. Original,21/2/2024,9,1228.8,United States,Retail,0,0,1,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0
+Fish Nelson & Holden,26/8/2024,5,N/A,United States,Law,0,0,1,0,0,1,0,0,0,1,0,0,1,0,1,0,0,0
+Donear Industries,3/2/2024,71,3584,India,Manufacturing,1,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+"Hypertension Nephrology Associates, P.C.",7/3/2024,5,506,United States,Healthcare,1,0,1,0,0,1,1,1,0,0,0,0,0,0,0,1,1,0
+Scott Pharma Solutions,27/8/2024,5,N/A,United States,Healthcare,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+ASI,27/6/2024,370,N/A,United States,IT Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pavilion Construction LLC,29/5/2024,N/A,N/A,United States,Construction,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US Dermatology Partners,17/8/2024,210,N/A,United States,Healthcare,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0
+Augusta Orthopedic,23/7/2024,10,N/A,United States,Healthcare,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+Dr. Leeman ENT,26/3/2024,5,480,United States,Healthcare,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Keya Accounting and Tax Services LLC,6/9/2024,5,N/A,United States,Finance,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+M.Royo & KlockMetal,27/8/2024,5,N/A,Argentina,Manufacturing,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0
+Azteca Tax Systems,20/5/2024,5,484,United States,Finance,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Payne & Jones,25/6/2024,7.2,1689.6,United States,Law,0,0,1,0,0,1,0,1,0,1,0,0,1,0,1,0,0,1
+GROWTH by NCRC,26/4/2024,5,830,United States,Finance,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+Shoma group,13/3/2024,20,2048,United States,Finance,0,0,1,1,1,1,0,0,0,1,0,0,1,0,1,0,1,0
+"Republic Shipping Consolidators, Inc",8/1/2024,5,117,United States,Transportation & Logistics,0,0,1,1,1,1,0,1,0,1,0,0,1,0,0,0,1,0
+Better Business Bureau,25/8/2024,400,N/A,United States,Non-Profit,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+"Karvo Companies, Inc.",18/8/2024,6,N/A,United States,contracting,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Commonwealth Capital,2/2/2024,91.1,2048,Singapore,Finance,1,0,1,0,0,1,0,1,0,0,0,0,1,1,0,0,0,0
+"Independent Recovery Resources, Inc.",7/1/2024,5,1126.4,United States,Finance,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0
+Nutec Group,31/5/2024,54.1,N/A,United States,Manufacturing,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0
+CTSI,9/2/2024,7.9,978,United States,Business Services,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+"Legend Properties, Inc.",3/7/2024,29,N/A,United States,Finance,1,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,1,0
+Dordt University,2/7/2024,36.2,3072,United States,Education,0,0,1,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0
+Playa Vista Job Opportunities and Business Services,16/8/2024,5,950,United States,recruitment,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Air Sino-Euro Associates Travel Pte. Ltd,2/2/2024,21.8,736,Singapore,Hospitality,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+Western Saw Inc.,2/6/2024,19,N/A,United States,Construction,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0
+"Martin's, Inc.",26/3/2024,30,1433.6,United States,Food and Beverage,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+Advantage Orthopedic & Sports Medicine Clinic,27/2/2024,5,600,United States,Healthcare,1,0,1,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0
+"Palmer Construction Co., Inc",7/3/2024,13,N/A,United States,Construction,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0
+Tandem,13/2/2024,5,2150.4,United States,Design,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Accelon Technologies Private,16/8/2024,7.1,480,India,IT Services,1,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+Bunkhouse Group,30/8/2024,11,2764.8,United States,Hospitality,0,0,1,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0
+Sable International,19/8/2024,7,N/A,United Kingdom,Finance,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+Dragon Tax and Management INC,20/5/2024,5,334,United States,Finance,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Bay Orthopedic & Rehabilitation Supply,10/2/2024,5,400,United States,Transportation & Logistics,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+Insula Group,18/7/2024,5,N/A,Australia,IT Services,0,0,0,1,1,0,0,0,0,1,1,0,0,1,0,0,0,0
+GRTC Transit System,18/2/2024,100,1536,United States,Transportation & Logistics,1,0,1,1,1,1,0,0,0,1,0,0,1,0,1,0,1,0
+Neurobehavioral Medicine Consultants,30/4/2024,5,60,United States,Healthcare,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+TechNet Kronoberg AB,21/2/2024,1,278,Sweden,IT Services,0,0,0,1,1,0,0,1,0,1,0,0,1,0,0,0,0,0
+Image Craft,18/4/2024,30,1945.6,United States,IT Services,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0
+"Keboda Technology Co., Ltd.",27/3/2024,300,1228.8,China,Manufacturing,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+CK Associates,5/9/2024,12,N/A,United States,Environmental Services,0,0,1,0,0,1,0,0,0,1,0,0,1,0,1,0,0,0
+HRTec Inc,2/3/2024,5,N/A,United States,Media,0,0,1,1,1,1,0,0,0,1,0,0,1,0,1,0,1,0
+defi SOLUTIONS.,5/6/2024,126,N/A,United States,IT Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Northern Minerals Limited,2/6/2024,N/A,N/A,australia,Construction,0,0,1,0,1,0,1,0,0,0,0,0,1,1,0,0,1,0
+"Cole, Cole, Easley & Sciba",28/2/2024,5,1536,United States,Law,0,0,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0
+MA Engineering,9/2/2024,6,94,United States,Manufacturing,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Western Supplies, Inc",3/9/2024,7,N/A,United States,Retail,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Studio Legale Associato Isolabella,4/9/2024,5,1331.2,Italy,Law,0,0,1,0,0,1,0,1,0,1,0,0,1,0,1,0,0,1
+"Smart Source, Inc.",9/9/2024,80,N/A,United States,IT Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marchassociates,20/2/2024,20,N/A,United States,Construction,0,0,1,1,1,1,0,0,0,1,0,0,0,0,1,0,1,0
+MEL aviation Ltd,2/7/2024,28,4300.8,United Kingdom,Manufacturing,0,0,1,0,0,1,1,1,0,0,0,0,0,1,1,0,0,0
+"Chaney, Couch, Callaway, Carter & Associates Family Dentistry.",2/2/2024,5,245,United States,Healthcare,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Clinica de Salud del Valle de Salinas,20/6/2024,27,1740.8,United States,Healthcare,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0
+Central Carolina Insurance Agency Inc.,13/6/2024,6,N/A,United States,Finance,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+Len Dubois Trucking,9/6/2024,26,N/A,Canada,Transportation & Logistics,0,0,1,0,0,1,0,1,1,1,0,0,1,0,1,0,1,0
+Texas Alcohol & Drug Testing Service,16/8/2024,6,218,United States,Healthcare,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0
+Lieberman LLP,1/4/2024,5,150,United States,Finance,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+The Wiser Financial Group,19/2/2024,6,300,United States,Finance,0,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,1,0
+National Publisher Services LLC,25/6/2024,7.8,715,United States,Media,0,0,1,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0
+"Mayer Antonellis Jachowicz & Haranas, LLP",15/3/2024,5,170,United States,Law,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+MAH Machine,20/6/2024,20,227,United States,Manufacturing,0,0,1,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0
+Eric Rossi CPA LLC,30/8/2024,5,910,United States,Law,0,0,1,0,0,1,0,1,0,1,0,0,1,0,1,0,0,1
+Southwest Family Medicine Associates,12/8/2024,5,N/A,United States,Healthcare,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0
+Optometric Physicians of Middle Tennessee,20/5/2024,5,1536,United States,Healthcare,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,1,0
+Texas Retina Associates,15/6/2024,34.6,N/A,United States,Healthcare,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Delta Pipeline,6/6/2024,15,N/A,United States,Construction,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Hypertension Nephrology Associates, P.C.",27/2/2024,5,506,United States,Healthcare,1,0,1,0,0,1,1,1,0,0,0,0,0,0,0,1,1,0
+"Robert D. Clements Jr Law Group, LLLP",12/2/2024,2,200,United States,Law,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+First Professional Services,7/3/2024,5,755,United States,Healthcare,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Ladov Law Firm,10/9/2024,5,105,United States,Law,0,0,1,0,0,1,0,1,0,1,0,0,1,0,1,0,0,1
+North Star Tax And Accounting,18/1/2024,6,480,United States,Finance,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+Medall Healthcare Pvt Ltd.,27/3/2024,53.3,1536,India,Healthcare,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0
+New York Home Healthcare,7/3/2024,8,N/A,United States,Healthcare,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0
+"Wind Composite Services Group, LLC",25/6/2024,20,412,United States,Energy,0,0,1,0,0,1,1,1,0,1,0,0,1,1,1,0,0,0
+JE Owens & Company PA.,18/4/2024,5,N/A,United States,Energy,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+ICWI,29/8/2024,46,N/A,Jamaica,Finance,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
