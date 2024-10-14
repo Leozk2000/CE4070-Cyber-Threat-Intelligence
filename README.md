@@ -2,6 +2,8 @@
  AY24/25 S1 Coursework and Assignments from NTU CCDS module CE4070 Cyber Threat Intelligence Group 17
 
 
+
+
 ## Group Project: Analysis on Ransomware Groups
 We carried out website scraping from ransomware shaming sites to analysis ransomware attackers behaviour.
 
@@ -14,6 +16,9 @@ We carried out website scraping from ransomware shaming sites to analysis ransom
 
 ### Documentation 
 1. Full detailed report of the project: [CTI Group 17 Report.pdf](https://github.com/Leozk2000/CE4070-Cyber-Threat-Intelligence/blob/main/Report/CTI%20Group%2017%20Report.pdf) 
+
+
+
 
 ## Group Presentation: Cyber Criminal Trends in Southeast Asia
 TBC
