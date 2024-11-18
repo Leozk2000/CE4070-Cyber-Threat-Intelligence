@@ -21,7 +21,7 @@ We carried out website scraping from ransomware shaming sites to analysis ransom
 
 
 ## Group Presentation: Types of Threats to Social Media End Users
-Presentation Topics \
+Presentation Topic 7 \
 Define and explain types of threats to social media end users (FB/IG/TikTok etc.) why is it important and how can it affect consumers lives?
 
 ### Presentation details
