@@ -8,7 +8,7 @@
 We carried out website scraping from ransomware shaming sites to analysis ransomware attackers behaviour.
 
 ### Project details
-1. We researched the current ransomware landscape through [ransomware.io](https://www.ransomlook.io/) and found .onion links for relevant ransomware groups.
+1. We researched the current ransomware landscape through [ransomlook.io](https://www.ransomlook.io/) and found .onion links for relevant ransomware groups.
 2. Accessed the dark web using Tor browser to scrape shaming websites from 4 ransomware groups: Hunters International, Cactus, dAn0n and BianLian.
 3. The scrapped txt files were then cleaned and processed using beautifulsoup and various .ipynb cleaning scripts to obtain and present relevant data in csv files.
 4. We combined all csv files for data visualisation and analysis of attacking trends in Tableau.
